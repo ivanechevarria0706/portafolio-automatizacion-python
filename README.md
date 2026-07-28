@@ -29,6 +29,7 @@ pip install pandas openpyxl
 python portafolio_1_automatizacion_reportes.py
 ```
 Coloca tus archivos de entrada en una carpeta `datos_entrada/` antes de correrlo.
+Si no tienes carpeta, al ejecuta el codigo por primera vez se crea la carpeta `datos_entrada/`
 
 ---
 
