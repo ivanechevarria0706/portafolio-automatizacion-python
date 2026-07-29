@@ -63,4 +63,4 @@ python portafolio_2_web_scraping.py
 - Bots simples para Telegram / Discord
 - Limpieza y análisis básico de datos con Python
 
-**Contacto:** [agrega tu email o link de Fiverr/Upwork aquí]
+**Contacto:** [https://www.fiverr.com/s/kLdee3w]
