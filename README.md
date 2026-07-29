@@ -5,7 +5,7 @@ reales de negocio: ahorrar tiempo en tareas repetitivas y extraer datos
 de la web de forma automática.
 
 Disponible para proyectos freelance de automatización, scraping, bots y
-análisis de datos. Contáctame por [Fiverr / Upwork - agrega tu link aquí].
+análisis de datos. Contáctame por [https://www.fiverr.com/s/kLdee3w].
 
 ---
 
